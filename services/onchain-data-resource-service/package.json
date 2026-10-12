@@ -1,0 +1,9 @@
+{
+  "name": "@red-cup-engineering/onchain-data-resource-service",
+  "version": "0.1.0",
+  "description": "ERC-5219 contract-resource actor with SHA-256 identity, exact paid writes, and external-body locators.",
+  "scripts": {
+    "check": "forge fmt --check && forge test --list",
+    "test": "forge test -vvv"
+  }
+}
