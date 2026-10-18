@@ -1,5 +1,10 @@
 {
   "name": "@red-cup-engineering/smart-contract-services-section",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
+    "directory": "services/computer-blockchain-system-services-section/services/ethereum-engineering-services-section/services/smart-contract-services-section"
+  },
   "description": "Ethereum smart-contract arena; deployable contracts live in independently testable actor services below this locus."
 }
