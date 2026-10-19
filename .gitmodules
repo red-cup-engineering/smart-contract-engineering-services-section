@@ -1,0 +1,4 @@
+[submodule "onchain-data-resource-service"]
+	path = services/onchain-data-resource-service
+	url = https://github.com/red-cup-engineering/onchain-data-resource-service.git
+	branch = main
