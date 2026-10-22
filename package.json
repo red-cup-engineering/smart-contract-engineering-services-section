@@ -5,5 +5,10 @@
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/smart-contract-services-section.git"
   },
-  "description": "Ethereum smart-contract arena; deployable contracts live in independently testable actor services below this locus."
+  "description": "Ethereum smart-contract arena; deployable contracts live in independently testable actor services below this locus.",
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
