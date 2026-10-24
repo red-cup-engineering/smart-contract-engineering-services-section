@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/smart-contract-services-section",
+  "name": "@red-cup-engineering/smart-contract-engineering-services-section",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/smart-contract-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/smart-contract-engineering-services-section.git"
   },
   "description": "Ethereum smart-contract arena; deployable contracts live in independently testable actor services below this locus.",
   "license": "MIT",
